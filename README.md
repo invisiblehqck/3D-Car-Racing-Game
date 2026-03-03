@@ -5,8 +5,15 @@
 
 ---
 
-### 🎮 Live Demo 🏁 Gameplay 
-![Gameplay Demo](aasets/gameplay.gif)
+<div align="center">
+
+## 🎮 Live Gameplay Preview
+
+<img src="assets/gameplay.gif" width="800" alt="3D Car Racing Gameplay"/>
+
+⭐ Try to beat your high score!
+
+</div>
 
 ### 💀 Game Over Screen
 ![Game Over Screenshot](aasets/car_game.png)
