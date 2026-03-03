@@ -11,7 +11,7 @@
 ![Gameplay Screenshot](assets/gameplay.gif)
 
 ### 💀 Game Over Screen
-![Game Over Screenshot](/car game.png)
+![Game Over Screenshot](assets/cargame.png)
 
 > ⚠️ Make sure to create an `assets` folder and add your screenshots inside it.
 
