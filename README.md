@@ -9,7 +9,7 @@
 
 ## 🎮 Live Gameplay Preview
 
-<img src="assets/gameplay.gif" width="800" alt="3D Car Racing Gameplay"/>
+<img src="aasets/gameplay.gif" width="800" alt="3D Car Racing Gameplay"/>
 
 ⭐ Try to beat your high score!
 
