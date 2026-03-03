@@ -18,8 +18,6 @@
 ### 💀 Game Over Screen
 ![Game Over Screenshot](aasets/car_game.png)
 
-> ⚠️ Make sure to create an `assets` folder and add your screenshots inside it.
-
 ---
 
 ## ✨ Features
