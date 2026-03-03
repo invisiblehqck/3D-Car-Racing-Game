@@ -6,7 +6,7 @@
 ---
 
 ### 🎮 Live Demo 🏁 Gameplay 
-![Gameplay Demo](3D Car game (1) (1).html)
+![Gameplay Demo](aasets/gameplay.gif)
 
 ### 💀 Game Over Screen
 ![Game Over Screenshot](aasets/car_game.png)
