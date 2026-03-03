@@ -8,7 +8,7 @@
 ## 🎮 Live Demo
 
 ### 🏁 Gameplay
-![Gameplay Screenshot](gameplay.png)
+![Gameplay Screenshot](assets/gameplay.gif)
 
 ### 💀 Game Over Screen
 ![Game Over Screenshot](/car game.png)
