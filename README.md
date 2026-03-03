@@ -5,10 +5,8 @@
 
 ---
 
-## 🎮 Live Demo
-
-### 🏁 Gameplay
-![Gameplay Screenshot](assets/gameplay.gif)
+### 🎮 Live Demo 🏁 Gameplay 
+![Gameplay Demo](assets/gameplay.gif)
 
 ### 💀 Game Over Screen
 ![Game Over Screenshot](aasets/car_game.png)
